@@ -1,3 +1,5 @@
+  This stylesheet can be used in an existing stylesheet used by and IDM ss policy
+  
   <xsl:template name="search-and-replace">
     <xsl:param name="input"/>
     <xsl:param name="search-string"/>
